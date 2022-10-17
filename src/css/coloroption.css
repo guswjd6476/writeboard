@@ -16,3 +16,27 @@
 .color-option:hover{
     transform: scale(1.2);
 }
+.opt1{
+    background-color: #16a085;
+}
+.opt2{
+    background-color: #e74c3c;
+}
+.opt3{
+    background-color: #8e44ad;
+}
+.opt4{
+    background-color: #f1c40f;
+}
+.opt5{
+    background-color: #e67e22;
+}
+.opt6{
+    background-color: #e74c3c;
+}
+.opt7{
+    background-color: #ecf0f1;
+}
+.opt8{
+    background-color: #95a5a6;
+}
