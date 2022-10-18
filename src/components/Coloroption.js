@@ -5,8 +5,8 @@ import "../css/coloroption.css"
 
 const Coloroption = () => {
    return  (
-    <>
-        <div class="coloropton-wrap">
+  
+        <div className="coloropton-wrap">
             <input type="color" id="color"/>
             <div className="color-option opt1"  data-color="#16a085"></div>
             <div className="color-option opt2"  data-color="#e74c3c"></div>
@@ -17,7 +17,6 @@ const Coloroption = () => {
             <div className="color-option opt7"  data-color="#ecf0f1"></div>
             <div className="color-option opt8"  data-color="#95a5a6"></div>
         </div>
-        </>
    )
    
 }
